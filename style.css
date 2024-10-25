@@ -1,0 +1,268 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+    
+}
+div.header{
+    background-color: rgb(41, 25, 25);
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 30px;
+    width: 50%;
+}
+body header div h1 {
+color: rgb(205, 230, 230);
+text-align: center;
+
+
+}
+div h1:hover{
+    color: rgb(45, 121, 45);
+}
+
+form {
+    display: flex; 
+  background-color: white;
+    /* align-items: center; */
+gap: 20%;
+    color: rgb(53, 48, 133);
+    margin-top:2%  ;
+    margin-left: 70px;
+    margin-right: 70px;
+    padding-left: 20%;
+   
+   /* width: 60%;
+    padding: 20px; */
+    
+}
+.group{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    
+    }
+.select-city{
+display: flex;
+flex-direction: column;
+width: 25%;
+
+}
+.select-course{
+display: flex;
+flex-direction: column;
+width: 25%;
+
+}
+.group2{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    
+    }
+    
+.full-name{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    
+    }
+.group3{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    
+    }
+.Email{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    
+    }
+.PhoneNO{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    
+    }
+ 
+.cnic{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    
+    }
+ 
+.Fcnic{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    
+    }
+.DOB{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    
+    }
+.Gender{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    
+    }
+.Adress{
+    display: flex;
+    flex-direction: column;
+    width: 71%;
+    
+    }
+.last{
+    display: flex;
+    flex-direction: column;
+    width: 71%;
+    
+    }
+.Button{
+    display: flex;
+    flex-direction: column;
+    width: 71%;
+  
+    }
+    
+#select{
+
+    color: rgb(7, 5, 5);
+padding: 20px;
+border-radius: 20px;
+
+border-color:  rgb(81, 255, 0);
+
+
+}
+#City{
+
+    color: rgb(7, 5, 5);
+padding: 20px;
+border-radius: 20px;
+
+border-color:  rgb(81, 255, 0);
+
+}
+#course{
+
+    color: rgb(7, 5, 5);
+padding: 20px;
+border-radius: 20px;
+
+border-color:  rgb(81, 255, 0);
+
+}
+#course2{
+
+    color: rgb(7, 5, 5);
+padding: 20px;
+border-radius: 20px;
+
+border-color:  rgb(81, 255, 0);
+
+}
+#name{
+
+    color: rgb(7, 5, 5);
+padding: 20px;
+border-radius: 20px;
+
+border-color:  rgb(81, 255, 0);
+
+}
+#course3{
+
+    color: rgb(7, 5, 5);
+padding: 20px;
+border-radius: 20px;
+
+border-color:  rgb(81, 255, 0);
+
+}
+#mail{
+
+    color: rgb(7, 5, 5);
+padding: 20px;
+border-radius: 20px;
+
+border-color:  rgb(81, 255, 0);
+
+}
+#phone{
+
+    color: rgb(7, 5, 5);
+padding: 20px;
+border-radius: 20px;
+
+border-color:  rgb(81, 255, 0);
+
+}
+#no{
+
+    color: rgb(7, 5, 5);
+padding: 20px;
+border-radius: 20px;
+
+border-color:  rgb(81, 255, 0);
+
+}
+#father{
+
+    color: rgb(7, 5, 5);
+padding: 20px;
+border-radius: 20px;
+
+border-color:  rgb(81, 255, 0);
+
+}
+#dob{
+
+    color: rgb(7, 5, 5);
+padding: 20px;
+border-radius: 20px;
+
+border-color:  rgb(81, 255, 0);
+
+}
+#gender{
+
+    color: rgb(7, 5, 5);
+padding: 20px;
+border-radius: 20px;
+
+border-color:  rgb(81, 255, 0);
+
+}
+#adress{
+
+    color: rgb(7, 5, 5);
+padding: 20px;
+border-radius: 20px;
+
+border-color:  rgb(81, 255, 0);
+
+}
+#quali{
+
+    color: rgb(7, 5, 5);
+padding: 20px;
+border-radius: 20px;
+
+border-color:  rgb(81, 255, 0);
+
+}
+#for{
+
+    color: rgb(7, 5, 5);
+padding: 20px;
+border-radius: 20px;
+background-color: aqua;
+border-color: aqua;
+
+}
